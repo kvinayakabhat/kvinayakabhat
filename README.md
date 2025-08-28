@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=kvinayakabhat&label=Profile%20views&color=0e75b6&style=flat" alt="kvinayakabhat" /> 
 </p>
 
-- 💼 Associate Full Stack Developer *(working on syslog feature for an Asset Management company, and also the Uni-directional Gateway 🚀)*  
+- 💼 Associate Full Stack Developer  
 - 💬 Ask me about **Tech, Dev, and Financial Markets 📊**  
 - 📫 How to reach me **kvinayakabhat@gmail.com**  
 - ⚡ Fun fact - **I can code without a coffee** ☕🚫  
